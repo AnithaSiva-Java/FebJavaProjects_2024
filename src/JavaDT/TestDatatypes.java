@@ -32,6 +32,8 @@ public class TestDatatypes {
 			double x6= 1.23445d;
 			System.out.println(x6);
 			
+			System.out.println();
+			
 		
 
 	}
